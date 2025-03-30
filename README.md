@@ -12,4 +12,4 @@ Calculadora simples desenvolvida com Python e Tkinter. Ela permite operações m
     - Tkinter
     
   📸 Captura de Tela
-  
+  ![Calculadora Tkinter](https://github.com/user-attachments/assets/6b2db23a-f870-4be0-ba51-31aa795f2320)  
